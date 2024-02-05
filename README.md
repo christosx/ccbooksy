@@ -15,3 +15,5 @@ Register for the first time as administartor then login to the admin panel and g
 For online use add ssl certificate to your website.
 
 If you are using a VPS(Virtual Private Server) remember to set session.gc_maxlifetime bigger than 2592000 (bigger than one month) in your server's php.ini file. 
+
+Live Demo: https://christoschristoforou.com/booksy
