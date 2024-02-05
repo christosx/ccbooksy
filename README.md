@@ -13,3 +13,5 @@ To access the admin panel add "/booksy/admin" next to your domain url. e.x. "dom
 Register for the first time as administartor then login to the admin panel and go to SETTINGS. There you can setup your app settings according to your shop's needs.
 
 For online use add ssl certificate to your website.
+
+If you are using a VPS(Virtual Private Server) remember to set session.gc_maxlifetime bigger than 2592000 (bigger than one month) in your server's php.ini file. 
