@@ -12,4 +12,4 @@ To install this PHP plugin create a database named "booksy". Then add the folder
 To access the admin panel add "/booksy/admin" next to your domain url. e.x. "domain.com/booksy/admin".
 Register for the first time as administartor then login to the admin panel and go to SETTINGS. There you can setup your app settings according to your shop's needs.
 
-For online use edit the admin/set_session.php file and set $secure to "true". This requirement is only for secure online websites that utilizes ssl certificate. For localhost conection leave it as "false".
+For online use add ssl certificate to your website.
