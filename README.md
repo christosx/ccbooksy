@@ -2,7 +2,7 @@
 CCBooksy - A light and nimble appointments booking webapp. Designed for barber shops.
 
 Application Name: CCBooksy
-Version: 1.0
+Version: 1.1
 License: MIT License
 Copyrights: christoschristoforou.com
 Database Name: booksy
